@@ -1,5 +1,5 @@
 # DM-UY 1133-A Creative Coding
-##### Spring 2022 • Katherine Bennett • Monday & Wednesdays • 12:00-13:50
+##### Fall 2022 • Katherine Bennett • Monday & Wednesdays • 12:00-13:50
 
 
 ## MidTerm Project  - The Unexpected Machine: Performance Adjective
