@@ -71,9 +71,9 @@ Week 14 of the semester ONLY:  <br>
 • Submit the weekly Tickets to Leave
 
 
-• If you need to switch to asynchronous mode, please communicate that with me. If you cannot be in a class, but will watch the recording, communicate that with me.
+• If you come down with COVID, please contact Deanna Rayment at (deanna.rayment@nyu.edu, 646.997.3046) to get an excused absence. They are the Coordinator of Student Advocacy and Compliance. They are there to support you. You are still responsible for all content missed. This includes understanding directives as well as assignments. It is your responsible to find out what you missed and to follow up. I am not going to chase you down.
 
-• Participation is not limited to the assignments that you turn in. Participation also includes not only your presence in class, but your questions, feedback and dialog. Do not fall into the trap of being lazy during class and never vocalizing your presence (and never having your camera on). Lean in and be present. If you have a question, someone else does too. You vocalizing your questions helps others to do the same.
+• Participation is not limited to the assignments that you turn in. Participation also includes not only your presence in class, but your questions, feedback and dialog. Do not fall into the trap of being lazy during class and never vocalizing your presence. Lean in and be present. If you have a question, someone else does too. You vocalizing your questions helps others to do the same.
 
 • Be professional at all times in your communication and attitude
 
@@ -98,7 +98,7 @@ Week 14 of the semester ONLY:  <br>
 • Don’t be afraid to fail. Don’t let your failures determine you. Rise again. Keep moving
 
 ## Attendance
-Attendance is mandatory and will be noted, whether you are synchronous or asynchronous, for the entire duration of the class period. If you need to leave or your internet cuts out, you are responsible for the material missed. Since there is so much technical, conceptual, and design information to absorb, regular attendance is essential. Unexcused absences (without a note from a doctor or agency) will affect your grade. 
+Attendance is mandatory and will be noted for the entire duration of the class period. If you need to leave (for what ever reason), you are responsible for the material missed. Since there is so much technical, conceptual, and design information to absorb, regular attendance is essential. Unexcused absences (without a note from a doctor or agency or Ms. Rayment) will affect your grade. 
 
 • Two unexcused absences are allowed; After that, your final overall grade for the course will drop by 2.5 points out of 100 for each additional unexcused absences.
 
@@ -108,16 +108,16 @@ Attendance is mandatory and will be noted, whether you are synchronous or asynch
 
 • Work is still due on due dates, regardless of whether you are in class or not.
 
-• Contact me in advance if you will not be in class. ([Slack](https://creativecodin-3ss3589.slack.com/) DIRECT MESSAGE is preferred). Demonstrate time management, communication and respect.
+• Contact me in advance if you will not be in class. ([Slack](https://creativecodin-cao5309.slack.com/) DIRECT MESSAGE is preferred). Demonstrate time management, communication and respect.
 
 • Be on time! Lateness will affect your grade. For every 15 minutes you are late, your participation grade drops.
 
-• Material missed is the responsibility of the student to make up. Consult the syllabus. Watch the videos from class, and those that were assigned. Consult Github for the demo code. Speak to other classmates in order to find out what was lectured and discussed. It is your responsibility to go over that material independently. Do these things first. It is your responsibility to contact me if you continue to have difficulty with the information.
+• Material missed is the responsibility of the student to make up. Consult the syllabus. Review the Calendar and the weekly breakout. Consult Slack for the demo code from class. Speak to other classmates in order to find out what was lectured and discussed. It is your responsibility to go over that material independently. Do these things first. It is your responsibility to contact me if you continue to have difficulty with the information.
 
-• If you have some extenuating need to be outside of class (special doctor's appointment, religious observations, medical issues, etc etc), please contact Deanna Rayment at (deanna.rayment@nyu.edu, 646.997.3046). They are the Coordinator of Student Advocacy and Compliance. They are there to support you. 
+• If you have some extenuating need to be outside of class (special doctor's appointment, religious observations, medical issues, etc etc), please contact Deanna Rayment at (deanna.rayment@nyu.edu, 646.997.3046). They are the Coordinator of Student Advocacy and Compliance. They are there to support you. They will communicate with me, as to whether or not your absence is excused. Otherwise, assignments will be counted as late. Regardless of whether or not your absence is excused, you are responsible for the content you've missed. Extensions may be granted for excused absenses.
 
 ## Contacting Me
-[Slack](https://creativecodin-3ss3589.slack.com/) DIRECT MESSAGE is the preferred initial contact. Otherwise you may email me (katherine.bennett@nyu.edu), most especially if it is time urgent/sensitive. Direct message is suitable for short questions (to answers that cannot be found in the syllabus), to set up appointments, or to notify me about being late or absent. *If it's something time sensitive, do email me.*
+[Slack](https://creativecodin-cao5309.slack.com/) DIRECT MESSAGE is the preferred initial contact. Otherwise you may email me (katherine.bennett@nyu.edu), most especially if it is time urgent/sensitive. Direct message is suitable for short questions (to answers that cannot be found in the syllabus), to set up appointments, or to notify me about being late or absent. *If it's something time sensitive, do email me.*
 
 For matters longer than 5 sentences, please direct message me to make an appointment. This is the proper way to address longer questions, issues, to ask me about an assignment, review a grade you received, or to discuss other matters. If you send me a super long message, I am simply going to respond by asking you to meet with me synchronously to resolve the matter. I will not resolve matters asynchronously. Period.
 
@@ -147,7 +147,7 @@ This book is available for purchase in the NYU bookstore. You can check the stat
 
 • A notebook/sketchbook and a pen. At all times.
 
-• [Slack](https://creativecodin-3ss3589.slack.com/) 
+• [Slack](https://creativecodin-cao5309.slack.com/) 
 
 • [Resources](Resources.md)
 
@@ -162,7 +162,7 @@ The above software is free to download.
 
 ## Course Structure
 
-This is a hybrid course - both lecture and studio; online: synchronously (together at the same time) and asynchronously (different times/not at the same time). Students will work on individual projects and group collaborations. Work will be completed both inside and outside of the class. Class will be a mix of lectures, class discussion, Show & Tell, workshops/challenges, studio time and critiques. Guest critics may be present.
+This is a hybrid course - both lecture and studio. Students will work on individual projects and group collaborations. Work will be completed both inside and outside of the class. Class will be a mix of lectures, class discussion, Show & Tell, workshops/challenges, studio time and critiques. Guest critics may be present.
 
 The course can be broken down into 3 sections throughout the semester: programming basics, Object Orientated Programming (OOP), and advance topics (automation/behaviors, using addons - JSON, API’s, Arduino, Computer Vision, Sound, etc).
 
@@ -177,7 +177,7 @@ A typical week will aim for the following schedule:
 
 • **Pair programming** is a popular way to learn and to work on projects. Two people share one computer and write code together. For the second half of class, an exercise will be given which will be worked on in pairs. The exercise will be due at the end of the class period and presented to class. It is not to be completed individually, nor asynchronously with your partner. On occasions the deadline will be at another point. Yet, the exercise is meant to be worked on together - on one laptop, in one program. If you are asynchronous that day, I will pair you up with another asynchronous student, if there is one. You will have one week to complete the assignment, meaning you have 6 days to find a congruent time to be synchronous for 30 minutes to complete the exercise. The professor will pair you up via Slack direct messages. 
 
-• **Homework projects will be turned in via [OpenProcessing.org](https://openprocessing.org/join/2F6017)**. At times, larger assignments homework projects will be turned in via GitHub. GitHub is a web hosting service that supports Git version control. It is more important than your resume, whether you are an artist, engineer or designer. It’s used largerly for software, but can be used for anything. It’s important to become familar with it, develop good habits. See the assigned reading links for more information.
+• **Homework projects will be turned in via [OpenProcessing.org]()**. At times, larger assignments homework projects will be turned in via GitHub. GitHub is a web hosting service that supports Git version control. It is more important than your resume, whether you are an artist, engineer or designer. It’s used largerly for software, but can be used for anything. It’s important to become familar with it, develop good habits. See the assigned reading links for more information.
 • **Time** Time management is everything. You will need it to have reasonable accomplishments in this class. The material is cumulative. The readings are essential. Writing code is the only way to make progress and to fully synthesize the material. It becomes evident quite quickly. Develop excellent time management. You will need 8-12 hours outside of class to succeed.
 
 My personal favorite time management tools are [KanBan](https://leankit.com/learn/kanban/what-is-kanban/), [Ink and Volt Planner](https://inkandvolt.com/product/volt-planner/) (also available in undated), the [Pomodoro technique](http://lifehacker.com/productivity-101-a-primer-to-the-pomodoro-technique-1598992730), [Self Control](https://selfcontrolapp.com/)  
@@ -186,7 +186,7 @@ My personal favorite time management tools are [KanBan](https://leankit.com/lear
 
 • **Using code found elsewhere:** It's super easy to find code online. As tempting as this is, I am going to ask that you write your own code for the first 2/3 of the semester. This will help you grasp and retain the fundamentals. It does help to write the code from the book out, line by line. Code that is not written by you can not be submitted as a homework assignment, project or pair programming challenge as your own work. Period.
 
-If you use code from elsewhere (which you will at times), I expect you to site the work and author, as well as to comment each line, as to what each line does programmatically. Do *not* summarize several lines of code from a high level (ie, TV Guide). I expect you to comment each line on a granular level. In addition in these cases, I am also looking for significant modification of the code, for you to enact your own ideas and to experiment heavily. Significant modification means beyond variable name and value changes. It's bending these concepts to your idea, especially graphically. It's not a copy and paste job.
+If you use code from elsewhere (which you will at times), I expect you to site the work and author, as well as to comment each line, as to what each line does programmatically. Do *not* summarize several lines of code from a high level (ie, TV Guide; ex, "here's where my shape moves"). I expect you to comment each line on a *granular* level (ex, "My shape's moving additional increment of +1 on the x axis and -2 on the y axis. This moves the shape to the left and down. It moves down more quickly than left."). In addition in these cases, I am also looking for significant modification of the code, for you to enact your own ideas and to experiment heavily. Significant modification means beyond variable name and value changes. It's bending these concepts to your idea, especially graphically. It's not a copy and paste job.
 
 Also, never more than 40% of your code may be supplied from elsewhere. Period.
 

@@ -1,5 +1,5 @@
 # DM-UY 1133-A Creative Coding
-##### Fall 2022 • Katherine Bennett • Monday & Wednesdays • 12:00-13:50
+##### Spring 2022 • Katherine Bennett • Monday & Wednesdays • 12:00-13:50
 
 ## [Schedule Weekly Detail](Calendar.md) 
 
@@ -12,8 +12,8 @@
 <!-- dates -->
 <tr>
   <td valign="top">4 </td>
-  <td valign="top" width="48%"><strong>Feb 14</strong></td>
-  <td valign="top" width="48%"><strong>Feb 16</strong></td>
+  <td valign="top" width="48%"><strong>Sept 28</strong></td>
+  <td valign="top" width="48%"><strong>Oct 3</strong></td>
 </tr>
 <!-- class -->
 <tr>
