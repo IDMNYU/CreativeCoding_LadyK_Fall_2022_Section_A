@@ -27,7 +27,7 @@
 </tr>
 <tr>
 	<td valign="top"> 3 </td>
-	<td valign="top"><a href="week_3_detail.md">Sept 21</a><br> <strong> Sketch 1 Due 18:00 EST via openProcessing.org</strong><br>Control Statements<br>Operators<br>Code Blocks<br> Variable scope <br>
+	<td valign="top"><a href="week_3_detail.md">Sept 21</a><br> <strong> Sketch 1 Due 16:00 EST via openProcessing.org</strong><br>Control Statements<br>Operators<br>Code Blocks<br> Variable scope <br>
 	</td>
 	<td valign="top"><a href="week_3_detail.md">Sept 26</a><br>DeBugger<br>Motion<br>Random<br>Functions<br>Print Statements<br>In-Class challenge<br>
 	</td>
