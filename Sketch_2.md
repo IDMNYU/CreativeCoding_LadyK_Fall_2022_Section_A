@@ -6,8 +6,8 @@
 ### Interactive Repetition & Drawing: Modularity, Pattern
 
 
-#### Step 1 is due before class on Feb 16th
-##### Step 2: Due Feb 23rd due by 17:00
+#### Step 1 is due before class on Sept 29th  16th
+##### Step 2: Due TBA
 
         
 ##### Step 1:
