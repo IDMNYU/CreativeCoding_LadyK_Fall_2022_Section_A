@@ -8,7 +8,7 @@
 
 #### Step 1, A - B is due before class on Sept 28th 
 #### Step 1, C - F is due before class on Oct 3rd 
-#### Step 2: Oct 12th 18:00 <-- this submission is graded
+#### Step 2: Oct 11th 18:00 <-- this submission is graded
         
 ##### Step 1:
  
