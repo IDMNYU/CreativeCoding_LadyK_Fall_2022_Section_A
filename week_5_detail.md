@@ -53,7 +53,7 @@
  	</td>
   	<!-- day Thurs -->
   	<td valign = "top">
-    <a href = "Sketch_3.md"> Sketch 3 </a>
+    <a href = "Sketch_3.md"> Sketch 3 </a> <br>
     Brain storm an adjective for your Midterm project. Come to the next class with it. If you want to get working on it, sketch it out visually.
   	</td> 	
 </tr>

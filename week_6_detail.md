@@ -52,7 +52,7 @@
  		Brainstorm & pseudo code Project 1<br>
  	</td>
   	<!-- day Thurs -->
-  	<td valign = "top"><a href = "Sketch_3.md"> Sketch 3 </a>
+  	<td valign = "top"><a href = "Sketch_3.md"> Sketch 3 </a> <br>
   		Brainstorm & pseudo code Project 1<br>
   	</td> 	
 </tr>
