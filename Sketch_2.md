@@ -1,4 +1,4 @@
-# DM-UY 1133-a Creative Coding
+# DM-UY 1133-A Creative Coding
 ##### Fall 2022 • Katherine Bennett • Monday & Wednesdays • 12:00-13:50
 
 ### Sketch 2
