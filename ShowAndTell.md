@@ -40,7 +40,7 @@ Week 5A - United Visual Artists, American Artist ---> Cy
 
 Week 5B - Seb Lee-Delisle & Kyle McDonald ---> Jerry
 
-Week 6A - Julian Oliver, Moritz Stefaner, Martin Wattenberg ---> Rebeccah
+Week 6A - Julian Oliver, Moritz Stefaner, Martin Wattenberg ---> Rebecah
 
 Week 6B -  Lee Blalock, Soso Limited ---> Diana
 
