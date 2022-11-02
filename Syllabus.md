@@ -103,7 +103,7 @@ Week 14 of the semester ONLY:  <br>
 Attendance is mandatory and will be noted for the entire duration of the class period. If you need to leave (for what ever reason), you are responsible for the material missed. Since there is so much technical, conceptual, and design information to absorb, regular attendance is essential. Unexcused absences (without a note from a doctor or agency or Ms. Rayment) will affect your grade. 
 
 
-• Two unexcused absences are allowed; After that, your final overall grade for the course will drop by 2.5 points out of 100 for each additional unexcused absences.
+• Three unexcused absences are allowed; After that, your final overall grade for the course will drop by 2.5 points out of 100 for each additional unexcused absences.
 
 • 5 unexcused absences is grounds for dismissal from the course.
 
