@@ -1,9 +1,9 @@
-# DM-UY 1133-E Creative Coding
-##### Fall 2021 • Katherine Bennett • Monday & Wednesdays • 14:00-15:50
+# DM-UY 1133-A Creative Coding
+##### Fall 2022 • Katherine Bennett • Monday & Wednesdays • 12:00-13:50
 
 # RoundTable Discussion Preparation 
 
-### Due Nov 17th via your Github repo for the final project && upload your 3-4 minute presentation to (TBA)
+### Due Nov 16th & 21st. Post to your Github repo for the final project (by Nov 21st 20:00) && upload a link to your 3-4 minute presentation to your readMe file 
 
 #### 5% of your final grade (2.5% research + presentation; 2.5% participation re: others' presentations and ideas)
  

@@ -1,7 +1,7 @@
 # DM-UY 1133-A Creative Coding
 ##### Fall 2022 • Katherine Bennett • Monday & Wednesdays • 12:00-13:50
 
-####  Due Nov 16th 12:00 EST SHARP 
+####  Due Nov 21th 12:00 EST SHARP 
 
 
 This sketch you have the opportunity to choose one of the following:

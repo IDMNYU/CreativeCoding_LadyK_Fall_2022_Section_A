@@ -95,10 +95,10 @@
 
 <tr>
 	<td>10</td>
-	<td valign="top"> Nov 9<br>Data<br>Text & String Manipulations	 <br>
+	<td valign="top"> Nov 9<br>Images + Data<br>
 		<a href = "Sketch_4.md"> Work on Sketch 4 </a>
 	</td>
-	<td valign="top">Nov 14<br><strong><a href = "RoundTable.md">  Roundtable for Final Projects</a></strong> 
+	<td valign="top">Nov 14<br>Images <br> Intro: Text & String Manipulations	 <br>
 		<a href = "Sketch_4.md"> Work on Sketch 4 </a>
 	</td>	
 </tr>
@@ -106,14 +106,14 @@
 	<td>11</td>
 	<td valign="top">Nov 16<br><a href = "RoundTable.md"> <strong> Roundtable for Final Projects</a></strong> <br>	
 	</td>
-	<td valign="top">Nov 21<br>Strings + API's<br>
+	<td valign="top">Nov 21<br><a href = "RoundTable.md"> <strong> Roundtable for Final Projects</a></strong> <br>
 	</td>
 </tr>
 <tr>
 	<td>12</td>
-	<td valign="top">Nov 28<br>Sound<br>P5 Play Library<br>
+	<td valign="top">Nov 28<br>Strings + API's<br>
 	</td>
-	<td valign="top">Nov 30<br><strong>Topics by request<br></strong>
+	<td valign="top">Nov 30<br>Sound<br>P5 Play Library<br>
 	</td>
 </tr>
 <tr>	
