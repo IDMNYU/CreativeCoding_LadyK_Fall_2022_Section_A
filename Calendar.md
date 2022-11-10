@@ -127,7 +127,7 @@
 	<td valign="top">Dec 7<br><strong>
 		Code-swap + Bug Squashing <br>
 		Topics by Request <br></strong>
-	<a href = "Final_Project.md">Work on Final Project</a> <br></td>	
+	<a href = "Final_Project.md">Work on Final Project</a> <br></td>
 </tr>
 <tr>	
 	<td>14</td><td valign="top">Dec 12<br><strong>Final Critiques </strong><br><a href = "Final_Project.md">Work on Final Project</a> <br></td>
@@ -138,5 +138,5 @@
 	<td valign="top">Dec 19th<br><strong>ALL Final Submissions Due by 16:00 EST<br> Submit Final Materials + Documents <br><a href = "Final_Deliverables.md">Final Self Assessment DUE by 18:00<br>
 	Letter to the Next Cohort DUE by 18:00.</td> </a><td valign="top"> <br>Have a great break! Stay safe and healthy!<br></strong> 
 	</td>
-<tr>	
+</tr>	
 </table>
