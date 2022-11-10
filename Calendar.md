@@ -92,14 +92,15 @@
 		Complete Refinements to Project 1 </a><br>
 	</td>
 </tr>
-
 <tr>
 	<td>10</td>
 	<td valign="top"> Nov 9<br>Images + Data<br>
-		<a href = "Sketch_4.md"> Work on Sketch 4 </a>
+		<a href = "Sketch_4.md"> Work on Sketch 4 </a> <br>
+		<a href = "Mid_Term_Self_Assessment.md">Submit the Midterm Self Assessment </a><br>
 	</td>
 	<td valign="top">Nov 14<br>Images <br> Intro: Text & String Manipulations	 <br>
-		<a href = "Sketch_4.md"> Work on Sketch 4 </a>
+		<a href = "Sketch_4.md"> Work on Sketch 4 </a><br>
+		<a href = "Mid_Term_Self_Assessment.md">Submit the Midterm Self Assessment </a><br>
 	</td>	
 </tr>
 <tr>
