@@ -1,5 +1,5 @@
 # DM-UY 1133-A Creative Coding
-##### Fall 2022 • Katherine Bennett • Monday & Wednesdays • 12:00-1:50pm 
+##### Spring 2023 • Katherine Bennett • Monday & Wednesdays • 12:00-1:50pm 
 
 ## Show & Tell
 
@@ -7,7 +7,7 @@ You will be assigned a [Show and Tell presentation date here](ShowAndTell.md). P
 
 • What is original/unique about how this artist uses technology? 
 
-• What kind of code did the artist use?  (JavaScript? Flash? Procesing? openFrameworks? VVVV?) How are they using the code? What is the code achieving?
+• What kind of code did the artist use?  (JavaScript? Flash? Procesing? openFrameworks? VVVV?). Try to find out! How are they using the code? What is the code achieving?
 
 • Why is it necessary that the artist use code?  (ie: particularly if it’s non-interactive, could it have been achieved with traditional or linear media?)
 
@@ -34,43 +34,43 @@ Get familiar with your display preferences IN. ADVANCE. I'm. Not. Joking.!! I'm 
 
 Week 4A - Joshua Davis, Golan Levin (drawing systems + collaborations) ---> Phil
 
-Week 4B -  Casey Reas, Zachary Lieberman ---> Shentong
+Week 4B -  Casey Reas, Zachary Lieberman ---> 
 
-Week 5A - United Visual Artists, American Artist ---> Cy
+Week 5A - United Visual Artists, American Artist ---> 
 
-Week 5B - Seb Lee-Delisle & Kyle McDonald ---> Jerry
+Week 5B - Seb Lee-Delisle & Kyle McDonald ---> 
 
-Week 6A - Julian Oliver, Moritz Stefaner, Martin Wattenberg ---> Rebecah
+Week 6A - Julian Oliver, Moritz Stefaner, Martin Wattenberg ---> 
 
-Week 6B -  Lee Blalock, Soso Limited ---> Diana
+Week 6B -  Lee Blalock, Soso Limited ---> 
 
-Week 6B - Nina Wenhart, N-e-r-v-o-u-s-S-y-s-t-e-m ---> Anees
+Week 6B - Nina Wenhart, N-e-r-v-o-u-s-S-y-s-t-e-m ---> 
 
-Week 7A - Marius Watz & Memo Akten ---> Christy
+Week 7A - Marius Watz & Memo Akten ---> 
 
-Week 8B - Field - http://www.field.io/, JT Nimoy (formerly known as Josh Nimoy)---> Rebecca
+Week 8B - Field - http://www.field.io/, JT Nimoy (formerly known as Josh Nimoy)---> 
 
-Week 9A - Jurg Lehni, Red Paper Heart   ---> Devon
+Week 9A - Jurg Lehni, Red Paper Heart   ---> 
 
-Week 9B - Amit Pitaru, rAndom International  ---> Eileen
+Week 9B - Amit Pitaru, rAndom International  ---> 
 
-Week 10A - Eno Henze, Cedric Kiefer (onformative)---> June
+Week 10A - Eno Henze, Cedric Kiefer (onformative)---> 
 
-Week 10A - Diato Manabe, Leo Villareal ---> Gabi
+Week 10A - Diato Manabe, Leo Villareal ---> 
 
-Week 11B - Karolina Sobecka, Moment Factory ---> Judith
+Week 11B - Karolina Sobecka, Moment Factory ---> 
 
-Week 11B - Robert Hodgin - Flight404, Karsten Schmidt ---> Derek
+Week 11B - Robert Hodgin - Flight404, Karsten Schmidt ---> 
 
-Week 12A - Bomani Oseni McClendon, Lauren McCarthy  ---> Jamie
+Week 12A - Bomani Oseni McClendon, Lauren McCarthy  ---> 
 
-Week 12A - Lia, Santiago Ortiz (Moebio.com) ---> Carter
+Week 12A - Lia, Santiago Ortiz (Moebio.com) ---> 
 
-Week 12B - Michael Hansmeyer, Waltz Binarie, Alida Sun ---> Julian
+Week 12B - Michael Hansmeyer, Waltz Binarie, Alida Sun ---> 
 
 Week 13A - Paul Prudence,Yasmin Elayat  ---> 
 
 Week 13b - Chris Sugrue, Fernanda Viegas---> 
 
 
-Extra Credit Possibilities:  Chelley Sherman, Jessica In, Congraz, Rui Pereira, Todd Vanderlin, Jeff Crouse, Similar Diversity (by Philipp Steinweber and Andreas Koller), Poetry on the Road ...
+Extra Credit Possibilities (if time):  Chelley Sherman, Jessica In, Congraz, Rui Pereira, Todd Vanderlin, Jeff Crouse, Similar Diversity (by Philipp Steinweber and Andreas Koller), Poetry on the Road ...
